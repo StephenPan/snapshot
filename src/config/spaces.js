@@ -72,7 +72,7 @@ export const spacesList = [
         name:"Lido"
     },
     {
-        id:"mail3.eth",
-        name:"Mail3"
+        id:"arbitrumfoundation.eth",
+        name:"Arb"
     },
 ];
