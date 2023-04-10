@@ -16,7 +16,7 @@ https://ericet.github.io/snapshot/
 ## Installation
 1. Clone the repo:
 
-`git clone https://github.com/ericet/snapshot.git`
+`git clone https://github.com/StephenPan/snapshot.git`
 
 2. Open the folder
 
